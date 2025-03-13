@@ -16,5 +16,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 <p align="center">
-  <a href="https://bandeira27.github.io/Projeto/#" width="100%">
+  <a href="https://bandeira27.github.io/Projeto/#" width="100%">Clique em mim!</a>
 </p>
